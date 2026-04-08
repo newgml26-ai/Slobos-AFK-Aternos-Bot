@@ -1,12 +1,12 @@
 {
-  "name": "AFK Bot",
+  "name": "ChaosAfkBOT",
   "bot-account": {
     "username": "Slobot00",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
+    "ip": "ChaosSMP-1a5S.aternos.me",
     "port": 27586,
     "version": "",
     "try-creative": false
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Aim is dork",
+        "Trex is Yo Dadsy!",
+        "Kenzo is actually gay!"
       ]
     },
     "chat-log": true,
